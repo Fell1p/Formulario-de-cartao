@@ -1,4 +1,6 @@
+import { info } from 'console';
 import React from 'react';
+import Formulario from './components/Formulario';
 
 function App() {
   return (
